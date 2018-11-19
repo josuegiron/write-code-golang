@@ -1,2 +1,2 @@
 # write-code-golang
-Write code golfing
+Write code golang
